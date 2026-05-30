@@ -1,102 +1,179 @@
 <div align="center">
 
-Hi, i'm De'Andre Perry
+# 👋 Hi, I'm De'Andre Perry
 
-### UX Design Engineer specializing in accessibility, AI-enhanced experiences, and modern front-end systems.
+### UX Design Engineer • Accessibility Advocate • Front-End Developer
 
-<p>
-  Designing inclusive digital experiences at the intersection of UX, accessibility, and engineering.
-</p>
+Building accessible, AI-enhanced digital experiences that connect design thinking with engineering execution.
 
 <p>
   <a href="https://www.linkedin.com/in/iamdeandreperry">
-    <img src="https://img.shields.io/badge/LinkedIn-iamdeandreperry-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-De'Andre%20Perry-146FF8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-</div>
-
----
-
-## About Me
-
-I design and build accessible, user-centered experiences that bridge UX design and front-end engineering. My work focuses on creating scalable interfaces, accessibility-first systems, and AI-enhanced digital products that are both functional and inclusive.
-
-I’m especially interested in the future of:
-- Accessibility Engineering
-- AI-powered user experiences
-- Front-end architecture
-- Design systems
-- Inclusive product design
-
----
-
-## Current Project — 508 Dev
-
-### Accessibility-first tooling for developers and UX engineers.
-
-**508 Dev** is a growing platform focused on making web accessibility easier to understand, implement, and scale.
-
-### Features
-- ARIA roles and attributes reference
-- Keyboard interaction patterns
-- Semantic HTML guidance
-- Live region examples
-- Accessibility-first UI patterns
-- Developer-focused accessibility resources
-
----
-
-# Tech Stack
-
-<div align="left">
-
-### Front-End
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css)
-
-### Design
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
-![UX Design](https://img.shields.io/badge/UX%20Design-111111?style=for-the-badge)
-![Design Systems](https://img.shields.io/badge/Design%20Systems-111111?style=for-the-badge)
-
-### Accessibility
-![WCAG](https://img.shields.io/badge/WCAG%202.2-111111?style=for-the-badge)
-![ARIA](https://img.shields.io/badge/ARIA-111111?style=for-the-badge)
-![Inclusive Design](https://img.shields.io/badge/Inclusive%20Design-111111?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1500&color=146FF8&center=true&vCenter=true&width=700&lines=UX+Design+Engineer;Accessibility+Specialist;Front-End+Developer;Design+Systems+Builder;AI-Assisted+Development" />
 
 </div>
 
 ---
 
-## Focus Areas
+# 🚀 About Me
 
-```txt
-Accessibility Engineering
-UX Design + Front-End Development
-AI-Assisted Product Experiences
-Responsive & Inclusive Interfaces
-Design Systems
-Accessibility Audits & Remediation
-```
+I design and build digital products that balance usability, accessibility, and technical excellence.
+
+My background combines:
+
+- UX Design
+- Front-End Engineering
+- Accessibility
+- Design Systems
+- Analytics & Optimization
+- AI-Assisted Development
+
+I enjoy building tools, platforms, and systems that improve how people interact with technology.
 
 ---
 
-## 2026 Goals
+# 🛠 Tech Stack
 
-- Build impactful accessibility tools for developers
-- Contribute to open-source accessibility projects
-- Grow as a UX Engineer & Accessibility Specialist
-- Explore AI-driven UX workflows and interfaces
-- Launch and expand 508 Dev
+## Front-End Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,vite,git,github,vscode" />
+</p>
+
+## UX & Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+- User Research
+- Wireframing
+- Prototyping
+- Interaction Design
+- Information Architecture
+- Design Systems
+
+---
+
+# ♿ Accessibility
+
+Focused on building inclusive experiences through:
+
+- WCAG 2.2
+- ARIA Authoring Practices
+- Keyboard Accessibility
+- Screen Reader Testing
+- Semantic HTML
+- Accessibility Audits
+- ADA / Section 508 Compliance
+
+---
+
+# 🤖 AI + Developer Experience
+
+Current interests include:
+
+- AI-Assisted Development
+- Claude Code
+- OpenAI Codex
+- Developer Experience (DX)
+- Front-End Tooling
+- Prompt Engineering
+- AI-Enhanced UX
+
+---
+
+# 📌 Featured Projects
+
+## ♿ 508 Dev
+
+Accessibility-first platform for developers and UX engineers.
+
+### Includes
+
+- WCAG Reference Library
+- ARIA Explorer
+- Keyboard Patterns
+- Screen Reader Guides
+- Accessibility Testing Resources
+- Interactive Learning Tools
+
+---
+
+## 🗺 Frontend Index
+
+A visual encyclopedia of modern frontend engineering.
+
+### Covers
+
+- Browsers
+- HTML
+- CSS
+- JavaScript
+- React Ecosystem
+- Git & GitHub
+- Build Tools
+- Accessibility
+- AI-Assisted Development
+- Modern Developer Workflows
+
+---
+
+## 🧠 AI Code Skills Lab
+
+Professional AI skills for Claude Code and Codex.
+
+### Categories
+
+- Accessibility Reviews
+- UX Audits
+- Design System Optimization
+- Front-End Refactoring
+- Documentation Generation
+- Testing Workflows
+- Code Quality
+
+---
+
+# 📚 Education
+
+### Bachelor of Science — User Experience Design
+
+Western Governors University
+
+Expected Completion: 2028
+
+---
+
+
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deandreperry&show_icons=true&theme=transparent"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deandreperry&layout=compact&theme=transparent"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- Expand 508 Dev
+- Publish additional accessibility tools
+- Build AI-powered UX resources
+- Grow as a UX Design Engineer
+- Contribute to open source accessibility projects
 
 ---
 
 <div align="center">
 
-### “Good design is accessible design.”
+### Designing accessible experiences. Engineering scalable systems.
 
 </div>
